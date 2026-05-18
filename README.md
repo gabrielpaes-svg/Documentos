@@ -10,6 +10,7 @@
     <p>Primeira versão da página web.</p>
     <p>Meu LinkedIn: <a href="https://www.linkedin.com/in/gabriel-paes-487a3b246" target="_blank" rel="noopener 
     noreferrer">www.linkedin.com/in/gabriel-paes-487a3b246</a></p>
+    https://sites.google.com/view/gabrielpaes/p%C3%A1gina-inicial
         
    
 
